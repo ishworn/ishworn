@@ -1,5 +1,9 @@
 # 💫 About Me:
-I’m a passionate developer with experience in building full-stack web applications using modern technologies.  <br>I’ve worked on inventory systems, e-commerce platforms, and IP camera mapping tools using a mix of PHP (Laravel), React, and Python (Flask).
+🚀 I’m a passionate developer crafting full-stack web applications.  
+💻 Experienced in modern tech with real-world project exposure too.  
+📦 Worked on inventory systems, e-commerce, and IP camera tools.  
+🛠️ Skilled in Laravel, React, and Flask for efficient solutions.
+
 
 
 ## 🌐 Socials:
